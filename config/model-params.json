@@ -1,0 +1,6 @@
+{
+  "test_size_pct": 0.25,
+  "max_depth": 7,
+  "min_samples_leaf": 2,
+  "cv_split": 5
+}

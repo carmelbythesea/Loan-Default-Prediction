@@ -1,0 +1,6 @@
+{
+    "path":"src\\data\\file\\",
+    "file_name":"sample_200_0k_20170120.csv",
+    "N_samples": 30000,
+    "rs":1
+}
