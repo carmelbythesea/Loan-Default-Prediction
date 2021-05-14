@@ -10,7 +10,7 @@
 
 ### Report
 - The report is dispalyed in the form of PowerPoint, located at the main branch under root, named **Loan Default Prediction Report.pptx**
-- Exploratory data analysis is done through Jupyter notebook. You can see the complete process of the project at **/notebook/test.ipynb**
+- Exploratory data analysis is done through Jupyter notebook. The complete process of the project is available at **/notebook/test.ipynb**
 
 
 
