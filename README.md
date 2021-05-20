@@ -6,7 +6,7 @@
 ### Run the program
 - Download the repository to your local computer
 - Go to **src/data/file** and unzip the file
-- Open your console, type **python run.py data analysis model**, the it will run automatically
+- Open your console, type **python run.py data analysis model**, then it will run automatically
 
 ### Report
 - The report is dispalyed in the form of PowerPoint, located at the main branch under root, named **Loan Default Prediction Report.pptx**
